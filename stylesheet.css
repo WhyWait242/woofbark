@@ -1,0 +1,63 @@
+body {
+	text-align: center;
+  background-color: black;
+  font-family: courier;
+  margin: 50px;
+  color: white;
+}
+
+h1 {
+  color: red;
+  margin-left: 20px;
+}
+
+img{
+	text-align: center;
+	padding: 50px;
+	float: left;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+	border: 20px;
+	border-radius: 50%;
+}
+
+a:link {
+  color: red;
+}
+
+a:visited {
+  color: grey;
+}
+
+a:hover {
+  color: yellow;
+}
+
+a:active {
+  color: white;
+}
+
+#akapit{
+	color: #4D2017;
+	font-weight: bold;
+	float: right;
+	border-radius: 10%;
+	padding: 20px;
+	margin: 50px;
+	background-color: yellow;
+}
+
+#container{
+	text-align: center;
+	float: right;
+	border-radius: 1%;
+	padding: 30px;
+	margin-bottom: 100px;
+	background-color: grey;
+}
+
+#small{
+font-size: 14px;
+}
